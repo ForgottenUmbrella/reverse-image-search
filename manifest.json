@@ -1,0 +1,18 @@
+﻿{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "description": "Right-click anime images to search for larger versions through IQDB or TinEye.",
+   "icons": {
+      "128": "search_128.png",
+      "16": "search_16.png",
+      "48": "search_48.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "22",
+   "name": "Reverse Search Context",
+   "options_page": "options.html",
+   "permissions": [ "contextMenus" ],
+   "version": "0.61"
+}

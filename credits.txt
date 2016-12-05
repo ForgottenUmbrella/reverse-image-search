@@ -1,0 +1,8 @@
+48x48 and 128x128 search icons come from the "Token" iconset, by Evan Brooks:
+http://brsev.com
+
+Original extension, "IQDB Context" by MK, from which this is based:
+https://chrome.google.com/webstore/detail/iqdb-context/nmahlbngglnabceabpgifacibgoogjcb/support?hl=en
+
+Used under the Creative Commons attribution-noncommercial-share-alike 3.0 license:
+http://creativecommons.org/licenses/by-nc-sa/3.0/
