@@ -1,3 +1,9 @@
+var databases = {
+    "IQDB": "https://iqdb.org/?url=",
+    "TinEye": "https://www.tineye.com/search?url=",
+    "SauceNAO": "just discovered there is already an extension for all this..."
+};
+
 chrome.contextMenus.onClicked.addListener
 (
 	function(info)
