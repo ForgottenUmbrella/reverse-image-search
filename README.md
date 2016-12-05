@@ -1,4 +1,9 @@
 # Reverse Search Context
+Discontinued, as there exists an extension already that does
+all I intended to do. See [this]
+(https://chrome.google.com/webstore/detail/image-search-options/kljmejbpilkadikecejccebmccagifhl?hl=en) extension for all your image
+reverse-searching needs.
+
 Chrome extension to look up an online image for larger versions
 via the right-click context menu. Based off of [IQDB Context]
 (https://chrome.google.com/webstore/detail/iqdb-context/nmahlbngglnabceabpgifacibgoogjcb?hl=en)
